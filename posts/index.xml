@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on johndoe</title>
+    <title>Posts on ArK</title>
     <link>https://arislanIOT.github.io/posts/</link>
-    <description>Recent content in Posts on johndoe</description>
+    <description>Recent content in Posts on ArK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Aug 2022 16:30:35 +0530</lastBuildDate><atom:link href="https://arislanIOT.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
